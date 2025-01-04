@@ -1,4 +1,4 @@
-# AURORA - Webhook Listener para Evolution API
+# Webhook Listener para Evolution API
 
 Este projeto é um exemplo de implementação de um webhook listener para a [Evolution API](https://github.com/evolution-api/evolution-api), uma API para automação do WhatsApp. O projeto demonstra como receber e responder automaticamente a mensagens do WhatsApp usando FastAPI.
 
@@ -19,8 +19,8 @@ Este projeto é um exemplo de implementação de um webhook listener para a [Evo
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/AURORA.git
-cd AURORA
+git clone https://github.com/arthurmw96/Exemplo_webhook_EvolutionAPI.git
+cd Exemplo_webhook_EvolutionAPI
 ```
 
 2. Instale as dependências usando UV:
